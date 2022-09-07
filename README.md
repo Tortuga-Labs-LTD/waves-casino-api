@@ -1,4 +1,4 @@
-# Waves Casino API (Roulette)
+# Waves Casino API
 
 This component monitors a Waves address and pulls chain information to cache it in a database. That information can be queried using a REST API.
 
